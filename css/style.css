@@ -1,0 +1,28 @@
+@font-face{
+	font-family: 'Amatic SC';
+	src: url(../fonts/Amatic_SC/AmaticSC-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+.logo{
+    font-family: 'Amatic SC', cursive;
+	font-size: 5rem;
+}
+
+body{
+         font-style: normal;
+         font-size: 2.5em;
+         font-family: 'Amatic SC', cursive;
+   }
+
+footer {
+    position: fixed;
+    bottom:0;
+    left:0;
+}		
+
+.carousel-caption{
+    margin: 50px 60px 100px 60px;
+    width: 800px;
+}
